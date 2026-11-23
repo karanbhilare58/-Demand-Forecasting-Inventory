@@ -23,3 +23,8 @@ venv/
 # Dataset files (we will download these separately)
 data/raw/*
 data/processed/*
+
+# Trained model artifacts
+models/
+*.pkl
+*.joblib
