@@ -41,6 +41,8 @@ data/
 
 The current training notebooks use `data/raw/train.csv`. Dataset files and processed data are excluded from Git by `.gitignore`; download the data separately.
 
+For comprehensive schema definitions, attribute ranges, data quality verification, and feature engineering details, refer to the [Dataset Documentation & Data Dictionary](reports/data_dictionary_and_dataset_documentation.md).
+
 ## Repository Structure
 
 ```text
